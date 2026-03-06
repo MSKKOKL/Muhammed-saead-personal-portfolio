@@ -3,8 +3,8 @@
     --bg-color: #050505;
     --text-main: #f8fafc;
     --text-muted: #94a3b8;
-    --accent-1: #06b6d4; /* Cyan */
-    --accent-2: #8b5cf6; /* Purple */
+    --accent-1: #059669; /* Rich Dark Green */
+    --accent-2: #064e3b; /* Deep Forest Green */
     --accent-gradient: linear-gradient(135deg, var(--accent-1), var(--accent-2));
     
     --glass-bg: rgba(255, 255, 255, 0.03);
@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, h6 {
     left: 40%;
     width: 30vw;
     height: 30vw;
-    background: #10b981;
+    background: #022c22;
     animation-delay: -10s;
     opacity: 0.1;
 }
